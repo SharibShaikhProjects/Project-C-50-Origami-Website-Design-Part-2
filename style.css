@@ -1,0 +1,47 @@
+h1{color: red; } 
+p{color:red} 
+
+.header
+
+{
+
+    display:flex;
+    justify-content: space-evenly;
+
+}
+
+.menu
+
+{
+
+    display:flex;
+    justify-content:space-evenly;
+
+}
+
+.grid
+
+{
+
+    display:flex;
+    justify-content: space-evenly;
+
+}
+
+.grid1
+
+{
+
+    display:flex;
+    justify-content: space-evenly;
+
+}
+
+.grid2
+
+{
+
+    display:flex;
+    justify-content: space-evenly;
+    
+}
